@@ -16,13 +16,13 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/tippy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/JZAgtk7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The only challenge encountered was the creation of the gif where the current version of LICEcap is outdated on the OSX
+The only challenge encountered was the creation of the gif where the current version of LICEcap is outdated on the OSX.
 
 ## License
 
